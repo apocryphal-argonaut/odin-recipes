@@ -1,0 +1,1 @@
+This project will hopefully help cement HTML foundational coding conventions as seen on the oding project, such as: boilerplate, tags and elements, lists and links and images.
