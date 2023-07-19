@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+h1,
+h3 {
+    background-color: black;
+    color: orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    background-color: orange;
+    color: black;
+}
+
+em {
+    font-weight: 800;
+}
+
+li {
+    text-align: left;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
